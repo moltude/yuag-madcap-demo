@@ -3,5 +3,8 @@
   Version="1">
   <TocEntry
     Title="Topic"
-    Link="/Content/tms/tms-landing-page.htm" />
+    Link="/Content/tms/tms-landing-page.htm"
+    ComputeToc="true"
+    ComputedTocDepth="4"
+    ReplaceMergeNode="false" />
 </CatapultToc>
